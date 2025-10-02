@@ -23,8 +23,8 @@ This is a screenshot of my solution.
 
 ### Links
 
-- Solution URL: [not ready yet]()
-- Live Site URL: [not ready yet]()
+- Solution URL: [github repo](https://github.com/thebefast6239/QR-Code-Component)
+- Live Site URL: [github io](https://thebefast6239.github.io/QR-Code-Component/)
 
 ## My process
 
