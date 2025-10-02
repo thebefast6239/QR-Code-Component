@@ -47,7 +47,8 @@ main {
     align-items: center;
 }
 
-.center-box p,h1{
+.center-box p,
+.center-box h1{
     text-align: center;
     margin: 0;
 }
