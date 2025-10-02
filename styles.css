@@ -76,7 +76,10 @@ main {
 }
 
 .attribution{
-    margin-top: auto;
+    position: fixed;    /* фиксируем футер на экране */
+    bottom: 0;          /* прижимаем к низу окна */
+    left: 0;
+    width: 100%;        /* растягиваем на всю ширину */
     padding: 12px 0;
     font-size: 11px;
     display: flex;
