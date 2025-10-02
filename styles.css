@@ -20,7 +20,7 @@ main {
     width: 320px;
     height: 499px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 25px;
+    border-radius: 20px;
 
     display: flex;
     justify-content: flex-start;
