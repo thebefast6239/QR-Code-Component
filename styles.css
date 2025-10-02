@@ -47,12 +47,12 @@ main {
     align-items: center;
 }
 
-.center-box p{
+.center-box p,h1{
     text-align: center;
     margin: 0;
 }
 
-.center-box p.outfit-p2w700 {
+.center-box h1.outfit-p2w700 {
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
