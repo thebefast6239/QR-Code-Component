@@ -78,12 +78,10 @@ main {
 .attribution{
     position: fixed;    /* фиксируем футер на экране */
     bottom: 0;          /* прижимаем к низу окна */
-    left: 0;
+    text-align: center;
     width: 100%;        /* растягиваем на всю ширину */
     padding: 12px 0;
     font-size: 11px;
-    display: flex;
-    justify-content: center;
 }
 
 .attribution a{
