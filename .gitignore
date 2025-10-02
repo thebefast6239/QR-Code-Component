@@ -16,3 +16,5 @@
 .prettierignore
 
 .design/
+
+.README-old.md

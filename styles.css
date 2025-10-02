@@ -3,9 +3,14 @@ body{
     height: 100vh;
     background-color: hsl(212, 45%, 89%);
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
+}
+
+main {
+  flex: 1;                 /* основной контент занимает всё доступное пространство */
+  display: flex;
+  justify-content: center;  /* центрируем .center-box вертикально */
+  align-items: center;      /* центрируем .center-box горизонтально */
 }
 
 .center-box {
@@ -70,7 +75,8 @@ body{
 }
 
 .attribution{
-    margin-top: 12px;
+    margin-top: auto;
+    padding: 12px 0;
     font-size: 11px;
     display: flex;
     justify-content: center;
